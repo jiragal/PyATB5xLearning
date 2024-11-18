@@ -1,6 +1,6 @@
 # Python determines the variable type during runtime rather than the compilation time
 # There are 3 types of variables in Pythonn 1)String 2)Numbers 3)Booleans
-from http.cookiejar import uppercase_escaped_char
+# from http.cookiejar import uppercase_escaped_char
 
 age = 99  # Integer
 pi = 3.14  # Decimal
@@ -40,3 +40,9 @@ sentence = 'hello world hello hello hello universe hi there hi how are you doing
 a = sentence.count("hello")
 print(a)
 print(txt.count('I'))
+age = 65
+age + 1
+print(age)
+print(pow(2, 3))
+name = input('Enter Your name')
+print(name)
