@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
+      <change afterPath="$PROJECT_DIR$/November/ex_16112024_Python_Loops/Lab004_Python_Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_16112024_Python_Loops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab005_Python_Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab006_Python_function1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab007_Python_args1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_07112024_Variables_Kewords/Lab002_Python_Variables_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_07112024_Variables_Kewords/Lab002_Python_Variables_types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_08112024_Variables_Strings/Lab003_Python_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_08112024_Variables_Strings/Lab003_Python_Strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +26,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -32,7 +42,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "git@github.com:/jiragal/PyATB5xLearning.git",
+    "url": "https://github.com/jiragal/PyATB5xLearning",
     "accountId": "0086a906-6973-4a85-b32c-965c7185279e"
   }
 }]]></component>
@@ -55,6 +65,10 @@
     "Python.Lab001_Python_Helloworld.executor": "Run",
     "Python.Lab002_Python_Variables_types.executor": "Run",
     "Python.Lab003_Python_Strings.executor": "Run",
+    "Python.Lab004_Python_Loops.executor": "Run",
+    "Python.Lab005_Python_Function.executor": "Run",
+    "Python.Lab006_Python_function1.executor": "Run",
+    "Python.Lab007_Python_args1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -62,7 +76,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab003_Python_Strings">
+  <component name="RunManager" selected="Python.Lab007_Python_args1">
     <configuration name="Lab001_Python_Helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -129,8 +143,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab006_Python_function1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_19112024_Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_19112024_Functions/Lab006_Python_function1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab007_Python_args1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_19112024_Functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_19112024_Functions/Lab007_Python_args1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab007_Python_args1" />
+        <item itemvalue="Python.Lab006_Python_function1" />
         <item itemvalue="Python.Lab003_Python_Strings" />
         <item itemvalue="Python.Lab002_Python_Variables_types" />
         <item itemvalue="Python.Lab001_Python_Helloworld" />
@@ -153,6 +213,15 @@
       <option name="presentableId" value="Default" />
       <updated>1731774100090</updated>
     </task>
+    <task id="LOCAL-00001" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1731952013700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731952013701</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
