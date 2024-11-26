@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab008_Python_Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab009_Python_Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_String/Lab010_Python_String1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_String/Lab011_Python_String2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_String/Lab012_Python_String3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_String/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab0013_Python_Lambda1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab0014_Python_Lambda2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/Lab0015_Python_Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/Lab0016_Python_lists2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/Lab0017_Python_List_Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab007_Python_args1.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab007_Python_args1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab009_Python_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab009_Python_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_23112024_Python_String/Lab012_Python_String3.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_23112024_Python_String/Lab012_Python_String3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +64,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab0013_Python_Lambda1.executor": "Run",
+    "Python.Lab0014_Python_Lambda2.executor": "Run",
+    "Python.Lab0015_Python_Lists.executor": "Run",
+    "Python.Lab0016_Python_lists2.executor": "Run",
+    "Python.Lab0017_Python_List_Array.executor": "Run",
     "Python.Lab001_Python_Helloworld.executor": "Run",
     "Python.Lab002_Python_Variables_types.executor": "Run",
     "Python.Lab003_Python_Strings.executor": "Run",
@@ -82,8 +88,8 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Lab006_Python_function1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab0017_Python_List_Array">
+    <configuration name="Lab0013_Python_Lambda1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,7 +102,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_19112024_Functions/Lab006_Python_function1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_19112024_Functions/Lab0013_Python_Lambda1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab007_Python_args1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0014_Python_Lambda2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_19112024_Functions/Lab007_Python_args1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_19112024_Functions/Lab0014_Python_Lambda2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab008_Python_Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0015_Python_Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_19112024_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_19112024_Functions/Lab008_Python_Function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/Lab0015_Python_Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab009_Python_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0016_Python_lists2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_19112024_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_19112024_Functions/Lab009_Python_Functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/Lab0016_Python_lists2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab010_Python_String1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0017_Python_List_Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,11 +186,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_23112024_Python_String" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_23112024_Python_String/Lab010_Python_String1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/Lab0017_Python_List_Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab010_Python_String1" />
-        <item itemvalue="Python.Lab009_Python_Functions" />
-        <item itemvalue="Python.Lab008_Python_Function" />
-        <item itemvalue="Python.Lab007_Python_args1" />
-        <item itemvalue="Python.Lab006_Python_function1" />
+        <item itemvalue="Python.Lab0017_Python_List_Array" />
+        <item itemvalue="Python.Lab0016_Python_lists2" />
+        <item itemvalue="Python.Lab0015_Python_Lists" />
+        <item itemvalue="Python.Lab0014_Python_Lambda2" />
+        <item itemvalue="Python.Lab0013_Python_Lambda1" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732114271672</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1732388766855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732388766855</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

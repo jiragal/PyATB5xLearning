@@ -11,4 +11,12 @@ _names()   #Passing zero arguments
 # **kwargs is used to pass variable numbers of keyword arguments
 
 def personal_information(name, **kwargs):
-    
+    print(f"Hello {name} these are your personal information")
+    for key, value in kwargs.items():
+        print(f"{key}: {value}")
+
+personal_information("Steve", phone=1234567890, city="Bangalore", country="India")
+personal_information("Sandhya")
+personal_information("Steve", state="Karnataka")
+
+
