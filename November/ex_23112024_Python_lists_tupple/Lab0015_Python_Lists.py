@@ -30,6 +30,18 @@ for names in _company_names:       #Iterating the lists one by one
 
 for i in range(1,6):
     print(i)
+#Using sort function
+my_list = [1,99,3,88,68,23,45]
+my_list.sort()
+print(my_list)
+
+#POP function or method
+squares = [1,4,99,9,16,24,27,32]
+squares.pop()  #Remove and Return item at index (default) last one
+print(squares)
+
+
+
 
 
 
