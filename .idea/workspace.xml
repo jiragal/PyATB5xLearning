@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_String/Lab0022_Python_Interview_Question_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/Lab0020_Python_Tuple_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/Lab0021_Python_set_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_Dictionary/Lab0023_Python_Dict001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_Dictionary/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/Lab0015_Python_Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/Lab0015_Python_Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_23112024_Python_String/Lab0022_Python_Interview_Question_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_23112024_Python_String/Lab0022_Python_Interview_Question_String.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -272,7 +271,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732717839506</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1732748406134</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732748406135</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -7,5 +7,5 @@ def find_char(string):
 
 print(find_char("swiss"))
 print(find_char('dada'))
-print('pepper')
-print('annusinha')
+print(find_char('pepper'))
+print(find_char('annusinha'))
