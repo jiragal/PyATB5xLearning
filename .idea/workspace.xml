@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_Dictionary/Lab0023_Python_Dict001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_23112024_Python_Dictionary/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0026_Python_Dict_Interview_Asked_Qustion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_23112024_Python_String/Lab0022_Python_Interview_Question_String.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_23112024_Python_String/Lab0022_Python_Interview_Question_String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_23112024_Python_Dictionary/Lab0023_Python_Dict001.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0023_Python_Dict001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/November/ex_23112024_Python_Dictionary/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0025_Python_Dicto02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +69,9 @@
     "Python.Lab001_Python_Helloworld.executor": "Run",
     "Python.Lab0020_Python_Tuple_01.executor": "Run",
     "Python.Lab0022_Python_Interview_Question_String.executor": "Run",
+    "Python.Lab0023_Python_Dict001.executor": "Run",
+    "Python.Lab0025_Python_Dicto02.executor": "Run",
+    "Python.Lab0026_Python_Dict_Interview_Asked_Qustion.executor": "Run",
     "Python.Lab002_Python_Variables_types.executor": "Run",
     "Python.Lab003_Python_Strings.executor": "Run",
     "Python.Lab004_Python_Loops.executor": "Run",
@@ -86,73 +90,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab0022_Python_Interview_Question_String">
-    <configuration name="Lab0015_Python_Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/Lab0015_Python_Lists.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab0017_Python_List_Array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/Lab0017_Python_List_Array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab0018_Python_Lambda_Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_23112024_Python_lists_tupple/Lab0018_Python_Lambda_Function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lab0026_Python_Dict_Interview_Asked_Qustion">
     <configuration name="Lab0020_Python_Tuple_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -197,13 +135,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab0023_Python_Dict001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0023_Python_Dict001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab0025_Python_Dicto02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0025_Python_Dicto02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab0026_Python_Dict_Interview_Asked_Qustion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0026_Python_Dict_Interview_Asked_Qustion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab0026_Python_Dict_Interview_Asked_Qustion" />
+        <item itemvalue="Python.Lab0025_Python_Dicto02" />
+        <item itemvalue="Python.Lab0023_Python_Dict001" />
         <item itemvalue="Python.Lab0022_Python_Interview_Question_String" />
         <item itemvalue="Python.Lab0020_Python_Tuple_01" />
-        <item itemvalue="Python.Lab0015_Python_Lists" />
-        <item itemvalue="Python.Lab0018_Python_Lambda_Function" />
-        <item itemvalue="Python.Lab0017_Python_List_Array" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +283,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732748406135</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1732750097415</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732750097416</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
