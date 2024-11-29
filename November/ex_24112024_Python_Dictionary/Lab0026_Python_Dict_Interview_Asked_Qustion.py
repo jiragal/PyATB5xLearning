@@ -13,7 +13,7 @@ print(count_string)
 char_count ={}
 string = 'python'
 for char in string:
-    char_count[char] = char_count.get(char,0) + 1
+    char_count[char] = char_count.get(char,0) + 1   #Here we are using get method
 print(char_count)
 
 vowels_args = 'aeiou'
