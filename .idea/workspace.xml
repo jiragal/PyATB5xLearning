@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0027_Python_first_day_Pramod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0028_Python_Dict_2nd_day_Pramod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0029_Python_Pramod_003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0030_Python_Pramod_004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0031_Python_Pramod_005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0032_Python_Pramod_Dictionary_006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0033_Class_00001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0034_Class_00002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0035_Class_00003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0036_Class_00004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0037_Class_00005.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0026_Python_Dict_Interview_Asked_Qustion.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0026_Python_Dict_Interview_Asked_Qustion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +79,11 @@
     "Python.Lab002_Python_Variables_types.executor": "Run",
     "Python.Lab0030_Python_Pramod_004.executor": "Run",
     "Python.Lab0031_Python_Pramod_005.executor": "Run",
+    "Python.Lab0033_Class_00001.executor": "Run",
+    "Python.Lab0034_Class_00002.executor": "Run",
+    "Python.Lab0035_Class_00003.executor": "Run",
+    "Python.Lab0036_Class_00004.executor": "Run",
+    "Python.Lab0037_Class_00005.executor": "Run",
     "Python.Lab003_Python_Strings.executor": "Run",
     "Python.Lab004_Python_Loops.executor": "Run",
     "Python.Lab005_Python_Function.executor": "Run",
@@ -98,8 +101,8 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab0031_Python_Pramod_005">
-    <configuration name="Lab0026_Python_Dict_Interview_Asked_Qustion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab0037_Class_00005">
+    <configuration name="Lab0033_Class_00001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0026_Python_Dict_Interview_Asked_Qustion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0033_Class_00001.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0028_Python_Dict_2nd_day_Pramod" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0034_Class_00002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0028_Python_Dict_2nd_day_Pramod.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0034_Class_00002.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0029_Python_Pramod_003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0035_Class_00003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0029_Python_Pramod_003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0035_Class_00003.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +168,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0030_Python_Pramod_004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0036_Class_00004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0030_Python_Pramod_004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0036_Class_00004.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0031_Python_Pramod_005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0037_Class_00005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,11 +199,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0031_Python_Pramod_005.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0037_Class_00005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab0031_Python_Pramod_005" />
-        <item itemvalue="Python.Lab0030_Python_Pramod_004" />
-        <item itemvalue="Python.Lab0026_Python_Dict_Interview_Asked_Qustion" />
-        <item itemvalue="Python.Lab0029_Python_Pramod_003" />
-        <item itemvalue="Python.Lab0028_Python_Dict_2nd_day_Pramod" />
+        <item itemvalue="Python.Lab0037_Class_00005" />
+        <item itemvalue="Python.Lab0036_Class_00004" />
+        <item itemvalue="Python.Lab0035_Class_00003" />
+        <item itemvalue="Python.Lab0033_Class_00001" />
+        <item itemvalue="Python.Lab0034_Class_00002" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732802689298</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1732850179804</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732850179804</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
