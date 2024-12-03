@@ -15,5 +15,5 @@ print(points.items())  # Returns a tuple of key,value pairs
 for item in points:
     print(item)
 
-for key,value in points:
+for key,value in points.items():
     print(key,value)
