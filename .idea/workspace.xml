@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0059_Dictionary_Sandeep_00001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0060_Dictionary_Sandeep_00002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0061_Dictionary_Sandeep_00003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0052_Class_0017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0050_Class_0015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0051_Class_0016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0053_Class_0018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0054_Class_0019_Single_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0055_Class_0020_MultiLevel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0056_Class_0021_Multiple_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0057_Python_0022_Hirarchical_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0058_Class_0023_RealTime_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0062_Dictionary_Sandeep_00004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0049_Python_Sandeep_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_24112024_Python_Dictionary/Lab0049_Python_Sandeep_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0061_Dictionary_Sandeep_00003.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0061_Dictionary_Sandeep_00003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +110,9 @@
     "Python.Lab0059_Dictionary_Sandeep_00001.executor": "Run",
     "Python.Lab005_Python_Function.executor": "Run",
     "Python.Lab0060_Dictionary_Sandeep_00002.executor": "Run",
+    "Python.Lab0061_Dictionary_Sandeep_00003.executor": "Run",
+    "Python.Lab0062_Dictionary_Sandeep_00004 (1).executor": "Run",
+    "Python.Lab0062_Dictionary_Sandeep_00004.executor": "Run",
     "Python.Lab006_Python_function1.executor": "Run",
     "Python.Lab007_Python_args1.executor": "Run",
     "Python.Lab008_Python_Function.executor": "Run",
@@ -135,51 +127,12 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab0061_Dictionary_Sandeep_00003">
-    <configuration name="Lab0056_Class_0021_Multiple_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0056_Class_0021_Multiple_Inheritance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab0057_Python_0022_Hirarchical_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0057_Python_0022_Hirarchical_Inheritance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_Dictionary_Continued_Sandeep" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Lab0062_Dictionary_Sandeep_00004 (1)">
     <configuration name="Lab0059_Dictionary_Sandeep_00001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -246,13 +199,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab0062_Dictionary_Sandeep_00004 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0062_Dictionary_Sandeep_00004.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab0062_Dictionary_Sandeep_00004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_Dictionary_Continued_Sandeep\Lab0062_Dictionary_Sandeep_00004.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab0062_Dictionary_Sandeep_00004 (1)" />
+        <item itemvalue="Python.Lab0062_Dictionary_Sandeep_00004" />
         <item itemvalue="Python.Lab0061_Dictionary_Sandeep_00003" />
         <item itemvalue="Python.Lab0060_Dictionary_Sandeep_00002" />
         <item itemvalue="Python.Lab0059_Dictionary_Sandeep_00001" />
-        <item itemvalue="Python.Lab0057_Python_0022_Hirarchical_Inheritance" />
-        <item itemvalue="Python.Lab0056_Class_0021_Multiple_Inheritance" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +381,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733182932783</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1733251783355</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1733251783355</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
