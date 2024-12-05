@@ -11,4 +11,13 @@ for item in word:
 
 print(v_count)
 
+# 2nd way
+word =word.lower()
+# Define vowels
+vowels = 'aeiou'
+#Count the number of vowels in the string
+vowel_count = sum(1 for char in word if char in vowels)  #This logic is important
+print(vowel_count)
+
+
 

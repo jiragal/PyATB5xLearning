@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0063_Dictionary_Sandeep_00005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0064_Dictionary_Sandeep_00006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab000058_Class_Polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab00059_Class_MethodOverriding_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab00060_Class_MethodOverriding_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0061_Class_Abstraction_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0062_Class_Abstraction_02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0064_Dictionary_Sandeep_00006.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0064_Dictionary_Sandeep_00006.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +65,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab000058_Class_Polymorphism.executor": "Run",
+    "Python.Lab00059_Class_Abstraction_01.executor": "Run",
+    "Python.Lab00060_Class_MethodOverriding_02.executor": "Run",
     "Python.Lab0013_Python_Lambda1.executor": "Run",
     "Python.Lab0014_Python_Lambda2.executor": "Run",
     "Python.Lab0015_Python_Lists.executor": "Run",
@@ -109,6 +116,7 @@
     "Python.Lab0059_Dictionary_Sandeep_00001.executor": "Run",
     "Python.Lab005_Python_Function.executor": "Run",
     "Python.Lab0060_Dictionary_Sandeep_00002.executor": "Run",
+    "Python.Lab0061_Class_Abstraction_01.executor": "Run",
     "Python.Lab0061_Dictionary_Sandeep_00003.executor": "Run",
     "Python.Lab0062_Dictionary_Sandeep_00004 (1).executor": "Run",
     "Python.Lab0062_Dictionary_Sandeep_00004.executor": "Run",
@@ -133,8 +141,8 @@
       <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_Dictionary_Continued_Sandeep" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab0064_Dictionary_Sandeep_00006">
-    <configuration name="Lab0061_Dictionary_Sandeep_00003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab0062_Class_Abstraction_02">
+    <configuration name="Lab00059_Class_MethodOverriding_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0061_Dictionary_Sandeep_00003.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\91990\PycharmProjects\PyATB5xLearning\November\ex_30112024_python_Class\Lab00059_Class_MethodOverriding_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0062_Dictionary_Sandeep_00004 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab00060_Class_MethodOverriding_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0062_Dictionary_Sandeep_00004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab00060_Class_MethodOverriding_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +186,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0062_Dictionary_Sandeep_00004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0061_Class_Abstraction_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_Dictionary_Continued_Sandeep\Lab0062_Dictionary_Sandeep_00004.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0061_Class_Abstraction_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0063_Dictionary_Sandeep_00005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0062_Class_Abstraction_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,11 +217,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0063_Dictionary_Sandeep_00005.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0062_Class_Abstraction_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab0062_Class_Abstraction_02" />
+        <item itemvalue="Python.Lab0061_Class_Abstraction_01" />
+        <item itemvalue="Python.Lab00060_Class_MethodOverriding_02" />
+        <item itemvalue="Python.Lab00059_Class_MethodOverriding_01" />
         <item itemvalue="Python.Lab0064_Dictionary_Sandeep_00006" />
-        <item itemvalue="Python.Lab0063_Dictionary_Sandeep_00005" />
-        <item itemvalue="Python.Lab0062_Dictionary_Sandeep_00004 (1)" />
-        <item itemvalue="Python.Lab0062_Dictionary_Sandeep_00004" />
-        <item itemvalue="Python.Lab0061_Dictionary_Sandeep_00003" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +406,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733254413677</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1733319579479</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1733319579480</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
