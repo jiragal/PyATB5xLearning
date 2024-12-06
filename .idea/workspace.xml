@@ -5,12 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0063_Class_Abstraction_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0064_Class_Abstraction_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0065_Class_Static.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0066_Class_Static_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0073_defaultDict_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0074_defaultDict_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0075_Extra_Practice_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0076_Extra_Practice_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0077_Extra_practice_03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0062_Class_Abstraction_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0062_Class_Abstraction_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0059_Dictionary_Sandeep_00001.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0067_Dictionary_Sandeep_00001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0060_Dictionary_Sandeep_00002.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0068_Dictionary_Sandeep_00002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0061_Dictionary_Sandeep_00003.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0069_Dictionary_Sandeep_00003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0062_Dictionary_Sandeep_00004.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0070_Dictionary_Sandeep_00004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0063_Dictionary_Sandeep_00005.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0071_Dictionary_Sandeep_00005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0064_Dictionary_Sandeep_00006.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0072_Dictionary_Sandeep_00006.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +133,11 @@
     "Python.Lab0065_Class_Static.executor": "Run",
     "Python.Lab0066_Class_Static_02.executor": "Run",
     "Python.Lab006_Python_function1.executor": "Run",
+    "Python.Lab0073_defaultDict_01.executor": "Run",
+    "Python.Lab0074_defaultDict_02.executor": "Run",
+    "Python.Lab0075_Extra_Practice_01.executor": "Run",
+    "Python.Lab0076_Extra_Practice_02.executor": "Run",
+    "Python.Lab0077_Extra_practice_03.executor": "Run",
     "Python.Lab007_Python_args1.executor": "Run",
     "Python.Lab008_Python_Function.executor": "Run",
     "Python.Lab009_Python_Functions.executor": "Run",
@@ -145,8 +156,8 @@
       <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_Dictionary_Continued_Sandeep" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab0066_Class_Static_02">
-    <configuration name="Lab0062_Class_Abstraction_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab0077_Extra_practice_03">
+    <configuration name="Lab0073_defaultDict_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0062_Class_Abstraction_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0073_defaultDict_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0063_Class_Abstraction_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0074_defaultDict_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,11 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0063_Class_Abstraction_03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0074_defaultDict_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0064_Class_Abstraction_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0075_Extra_Practice_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -199,11 +210,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0064_Class_Abstraction_04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0075_Extra_Practice_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0065_Class_Static" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0076_Extra_Practice_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,11 +232,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0065_Class_Static.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0076_Extra_Practice_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0066_Class_Static_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0077_Extra_practice_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,11 +254,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0066_Class_Static_02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0077_Extra_practice_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,11 +269,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab0066_Class_Static_02" />
-        <item itemvalue="Python.Lab0065_Class_Static" />
-        <item itemvalue="Python.Lab0064_Class_Abstraction_04" />
-        <item itemvalue="Python.Lab0063_Class_Abstraction_03" />
-        <item itemvalue="Python.Lab0062_Class_Abstraction_02" />
+        <item itemvalue="Python.Lab0077_Extra_practice_03" />
+        <item itemvalue="Python.Lab0076_Extra_Practice_02" />
+        <item itemvalue="Python.Lab0075_Extra_Practice_01" />
+        <item itemvalue="Python.Lab0074_defaultDict_02" />
+        <item itemvalue="Python.Lab0073_defaultDict_01" />
       </list>
     </recent_temporary>
   </component>
@@ -426,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733393911768</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1733470694897</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1733470694897</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
