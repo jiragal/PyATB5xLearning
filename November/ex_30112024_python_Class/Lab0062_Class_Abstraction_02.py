@@ -2,9 +2,9 @@
 from abc import ABC, abstractmethod
 
 
-class Father:
-    def __init__(self, father):
-        self.father = father
+class Father(ABC):
+    def __init__(self, name):
+        self.name = name
 
     # Your father has incomplete Loan
     @abstractmethod
@@ -12,13 +12,13 @@ class Father:
         pass
 
 
-class Son:
+class Son(Father):
     def loan(self):
         print("1Lakh given to ICICI loan cleared")
 
 
 # Object creating
-obj_loan = Son()
+obj_loan = Son("Pramod")
 obj_loan.loan()
 
 #Abstract means hidden but in this example we cannot see that..Pramod has explained that in the next program
