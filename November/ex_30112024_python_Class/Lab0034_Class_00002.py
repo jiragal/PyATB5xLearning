@@ -6,5 +6,7 @@ class Car():
     oil = "petrol"
     color = "Red"
 
+#Object creating
 car1 = Car()
 print(car1.company)
+print(car1)

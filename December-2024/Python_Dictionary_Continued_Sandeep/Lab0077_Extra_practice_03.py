@@ -18,7 +18,6 @@ city_dict = {}
 for country, city in cities:
     if country not in city_dict:
         city_dict[country] = []     #Initiate new empty list for countries
-    else:
-        city_dict[country].append(city)  #Add the city to the country list
+    city_dict[country].append(city)  #Add the city to the country list
 
 print(city_dict)
