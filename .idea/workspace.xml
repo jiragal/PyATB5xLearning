@@ -5,16 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0078_Interview_asked_program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0079_List_0001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0080_List_0002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0081_list_0003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0089_Exception_0001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0090_Exception_0002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0091_Exception_0003_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0092.Exception_0004_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0093_Exception_file_IO_0005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0094_Exception_File_0006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0095_Exception_0007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0096_Exception_Pandas_Read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/TestData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0082_list_0004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0083_list_0005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0084_list_0006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0085_list_0007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0086_list_0008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0087_list_0009_comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0088_list_0010_comprehension.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0077_Extra_practice_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0077_Extra_practice_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0033_Class_00001.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0033_Class_00001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0034_Class_00002.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0034_Class_00002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0035_Class_00003.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0035_Class_00003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0040_Class_00008.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0040_Class_00008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0081_list_0003.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0081_list_0003.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +151,23 @@
     "Python.Lab007_Python_args1.executor": "Run",
     "Python.Lab0080_List_0002.executor": "Run",
     "Python.Lab0081_list_0003.executor": "Run",
+    "Python.Lab0082_list_0004.executor": "Run",
+    "Python.Lab0083_list_0005.executor": "Run",
+    "Python.Lab0084_list_0006.executor": "Run",
+    "Python.Lab0085_list_0007.executor": "Run",
+    "Python.Lab0086_list_0008.executor": "Run",
+    "Python.Lab0087_list_0009_comprehension.executor": "Run",
+    "Python.Lab0088_list_0010_comprehension.executor": "Run",
+    "Python.Lab0089_Exception_0001.executor": "Run",
     "Python.Lab008_Python_Function.executor": "Run",
+    "Python.Lab0090_Exception_0002.executor": "Run",
+    "Python.Lab0091_Exception_0003.executor": "Run",
+    "Python.Lab0091_Exception_0003_OS (1).executor": "Run",
+    "Python.Lab0092.Exception_0004_OS.executor": "Run",
+    "Python.Lab0093_Exception_file_IO_0005.executor": "Run",
+    "Python.Lab0094_Exception_File_0006.executor": "Run",
+    "Python.Lab0095_Exception_0007.executor": "Run",
+    "Python.Lab0096_Exception_Pandas_Read.executor": "Run",
     "Python.Lab009_Python_Functions.executor": "Run",
     "Python.Lab010_Python_String1.executor": "Run",
     "Python.Lab011_Python_String2.executor": "Run",
@@ -155,11 +181,12 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_Exception_Handling_Dec07" />
       <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_Dictionary_Continued_Sandeep" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab0081_list_0003">
-    <configuration name="Lab0035_Class_00003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab0096_Exception_Pandas_Read">
+    <configuration name="Lab0092.Exception_0004_OS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,11 +195,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0035_Class_00003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0092.Exception_0004_OS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0078_Interview_asked_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0093_Exception_file_IO_0005" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,11 +217,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Dictionary_Continued_Sandeep/Lab0078_Interview_asked_program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0093_Exception_file_IO_0005.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0079_List_0001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0094_Exception_File_0006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,11 +239,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0079_List_0001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0094_Exception_File_0006.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,7 +252,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0080_List_0002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0095_Exception_0007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,11 +261,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0080_List_0002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0095_Exception_0007.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,7 +274,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0081_list_0003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0096_Exception_Pandas_Read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,11 +283,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0081_list_0003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0096_Exception_Pandas_Read.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,11 +298,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab0081_list_0003" />
-        <item itemvalue="Python.Lab0080_List_0002" />
-        <item itemvalue="Python.Lab0079_List_0001" />
-        <item itemvalue="Python.Lab0078_Interview_asked_program" />
-        <item itemvalue="Python.Lab0035_Class_00003" />
+        <item itemvalue="Python.Lab0096_Exception_Pandas_Read" />
+        <item itemvalue="Python.Lab0095_Exception_0007" />
+        <item itemvalue="Python.Lab0094_Exception_File_0006" />
+        <item itemvalue="Python.Lab0093_Exception_file_IO_0005" />
+        <item itemvalue="Python.Lab0092.Exception_0004_OS" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +482,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733498777878</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1733587423519</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1733587423519</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,5 +507,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="save all the code" />
     <option name="LAST_COMMIT_MESSAGE" value="save all the code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0083_list_0005.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="python-line">
+          <url>file://$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0091_Exception_0003_OS.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

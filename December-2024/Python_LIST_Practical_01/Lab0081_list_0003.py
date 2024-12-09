@@ -15,9 +15,11 @@ print(num_list.index(4))
 print(num_list.index(4,2))
 
 l = [10,20,30,40,10,20,10,10]
-user_number = 10
+user_number = int(input('Enter value to search : '))
+if user_number in l:
+    print(user_number,'available occurent at : ',l.index(user_number))
+else:
+    print("User number is not available", user_number)
 
-for item in l:
-    if item == user_number:
-        print(l.index(user_number))
+
 
