@@ -39,10 +39,13 @@ reverse_odd_length = [process_name(name) for name in names]
 print(reverse_odd_length)
 # **************************************************************************************#
 data = ['hello', 123, 1.2, 'world', True, 'python']
-d = [item[::-1] if isinstance(data, str) else item for item in data]
+d = [item[::-1] if isinstance(item, str) else item for item in data]
 print(d)
-
- 
+# **************************************************************************************#
+# Reverse the string if the string is of odd length, otherwise keep it as is.
+names = ['apple', 'google', 'yahoo', 'facebook', 'yelp', 'flipkart', 'gmail','amazon']
+odd_list1 = [name[::-1] if len(name)% 2 !=0 else name for name in names]
+print(odd_list1)
 # **************************************************************************************#
 
 
