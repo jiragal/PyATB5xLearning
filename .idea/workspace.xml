@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/December-2024/Lab0105.Python_module_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Lab0106_MySQLconnector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Lab0109_importFrom_Other_Packagers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Lab104_Python_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep/Lab0101_Decorator_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep/Lab0102_Decorator_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep/Lab0103_Decorator_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Lambda/Lab0099_Sandeep_Lambda_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Lambda/Lab100_Sandeep_Lambda_filter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Lambda/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_concept/Lab0107_OpenBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_concept/Lab0108_CloseBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_concept/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab0096_Function_Sandeep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab0097_Function_Sandeep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab0098_Function_Sandeep.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Lab0109_importFrom_Other_Packagers.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Lab0109_importFrom_Other_Packagers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -518,7 +502,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733795781684</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1733895975434</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1733895975434</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

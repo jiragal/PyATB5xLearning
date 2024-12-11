@@ -1,6 +1,7 @@
 from Python_Module_concept.Lab0107_OpenBrowser import openBrowser
 from Python_Module_concept.Lab0108_CloseBrowser import stopBrowser
 
+#Here we are re-using the code again and again
 openBrowser()
 print("Browser is running")
 stopBrowser()
