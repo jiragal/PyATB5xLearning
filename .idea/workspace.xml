@@ -5,19 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_LIST/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Lab0105.Python_module_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Lab0106_MySQLconnector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Lab0109_importFrom_Other_Packagers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Lab104_Python_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep/Lab0101_Decorator_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep/Lab0102_Decorator_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep/Lab0103_Decorator_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Lambda/Lab0099_Sandeep_Lambda_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Lambda/Lab100_Sandeep_Lambda_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Lambda/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_concept/Lab0107_OpenBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_concept/Lab0108_CloseBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_concept/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab0096_Function_Sandeep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab0097_Function_Sandeep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/November/ex_19112024_Functions/Lab0098_Function_Sandeep.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0079_List_0001.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_LIST/Lab0079_List_0001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0080_List_0002.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_LIST/Lab0080_List_0002.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0081_list_0003.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_LIST/Lab0081_list_0003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0082_list_0004.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_LIST/Lab0082_list_0004.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0083_list_0005.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_LIST/Lab0083_list_0005.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0084_list_0006.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_LIST/Lab0084_list_0006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0085_list_0007.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_LIST/Lab0085_list_0007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0086_list_0008.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_LIST/Lab0086_list_0008.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0087_list_0009_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_LIST/Lab0087_list_0009_comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01/Lab0088_list_0010_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_LIST/Lab0088_list_0010_comprehension.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -161,10 +167,20 @@
     "Python.Lab0094_Exception_File_0006.executor": "Run",
     "Python.Lab0095_Exception_0007.executor": "Run",
     "Python.Lab0096_Exception_Pandas_Read.executor": "Run",
+    "Python.Lab0096_Function_Sandeep.executor": "Run",
+    "Python.Lab0097_Function_Sandeep.executor": "Run",
+    "Python.Lab0098_Function_Sandeep.executor": "Run",
+    "Python.Lab0099_Sandeep_Lambda_01.executor": "Run",
     "Python.Lab009_Python_Functions.executor": "Run",
+    "Python.Lab0101_Decorator_01.executor": "Run",
+    "Python.Lab0102_Decorator_02.executor": "Run",
+    "Python.Lab0103_Decorator_03.executor": "Run",
+    "Python.Lab0105.Python_module_01.executor": "Run",
+    "Python.Lab0109_importFrom_Other_Packagers.executor": "Run",
     "Python.Lab010_Python_String1.executor": "Run",
     "Python.Lab011_Python_String2.executor": "Run",
     "Python.Lab012_Python_String3.executor": "Run",
+    "Python.Lab100_Sandeep_Lambda_02.executor": "Run",
     "Python.Practice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -175,12 +191,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024" />
+      <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_LIST" />
       <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_Exception_Handling_Dec07" />
       <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_Dictionary_Continued_Sandeep" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Practice">
-    <configuration name="Lab0088_list_0010_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab0109_importFrom_Other_Packagers">
+    <configuration name="Lab0101_Decorator_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,11 +207,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_LIST_Practical_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_LIST\Lab0088_list_0010_comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep/Lab0101_Decorator_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +220,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0094_Exception_File_0006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0102_Decorator_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0094_Exception_File_0006.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep/Lab0102_Decorator_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0095_Exception_0007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0103_Decorator_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,11 +251,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0095_Exception_0007.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep/Lab0103_Decorator_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0096_Exception_Pandas_Read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0105.Python_module_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -255,11 +273,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Exception_Handling_Dec07/Lab0096_Exception_Pandas_Read.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Lab0105.Python_module_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,7 +286,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0109_importFrom_Other_Packagers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -277,11 +295,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_19112024_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_19112024_Functions/Practice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Lab0109_importFrom_Other_Packagers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,11 +310,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Practice" />
-        <item itemvalue="Python.Lab0088_list_0010_comprehension" />
-        <item itemvalue="Python.Lab0096_Exception_Pandas_Read" />
-        <item itemvalue="Python.Lab0095_Exception_0007" />
-        <item itemvalue="Python.Lab0094_Exception_File_0006" />
+        <item itemvalue="Python.Lab0109_importFrom_Other_Packagers" />
+        <item itemvalue="Python.Lab0105.Python_module_01" />
+        <item itemvalue="Python.Lab0103_Decorator_03" />
+        <item itemvalue="Python.Lab0102_Decorator_02" />
+        <item itemvalue="Python.Lab0101_Decorator_01" />
       </list>
     </recent_temporary>
   </component>
@@ -492,7 +510,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733744641624</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1733795781683</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1733795781684</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
