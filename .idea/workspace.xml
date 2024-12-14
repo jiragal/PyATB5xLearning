@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Lab0109_importFrom_Other_Packagers.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Lab0109_importFrom_Other_Packagers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Python Unit Test" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -36,12 +35,12 @@
     &quot;assignee&quot;: &quot;jiragal&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/jiragal/PyATB5xLearning&quot;,
-    &quot;accountId&quot;: &quot;0086a906-6973-4a85-b32c-965c7185279e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jiragal/PyATB5xLearning.git",
+    "accountId": "73617a9a-8f9e-4a25-9eb2-77d0d8927192"
   }
-}</component>
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0058_Class_0023_RealTime_Inheritance.py" root0="SKIP_INSPECTION" />
   </component>
@@ -162,6 +161,7 @@
     "Python.Lab0105.Python_module_01.executor": "Run",
     "Python.Lab0109_importFrom_Other_Packagers.executor": "Run",
     "Python.Lab010_Python_String1.executor": "Run",
+    "Python.Lab0110_udemy_00001.executor": "Run",
     "Python.Lab011_Python_String2.executor": "Run",
     "Python.Lab012_Python_String3.executor": "Run",
     "Python.Lab100_Sandeep_Lambda_02.executor": "Run",
@@ -169,7 +169,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/91990/PycharmProjects/PyATB5xLearning",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Sanjiva/PycharmProjects/PyATB5xLearning1",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -181,29 +182,7 @@
       <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_Dictionary_Continued_Sandeep" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab0109_importFrom_Other_Packagers">
-    <configuration name="Lab0101_Decorator_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Decorator_Sandeep/Lab0101_Decorator_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lab0110_udemy_00001">
     <configuration name="Lab0102_Decorator_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -292,20 +271,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab0110_udemy_00001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_UDEMY_0001" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_UDEMY_0001/Lab0110_udemy_00001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab0110_udemy_00001" />
         <item itemvalue="Python.Lab0109_importFrom_Other_Packagers" />
         <item itemvalue="Python.Lab0105.Python_module_01" />
         <item itemvalue="Python.Lab0103_Decorator_03" />
         <item itemvalue="Python.Lab0102_Decorator_02" />
-        <item itemvalue="Python.Lab0101_Decorator_01" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
       </set>
     </attachedChunks>
   </component>
