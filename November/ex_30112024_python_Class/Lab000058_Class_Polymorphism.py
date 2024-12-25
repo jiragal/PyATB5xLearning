@@ -7,7 +7,7 @@
 # Behaviour is different based on who is calling
 # Two types of Polymorphism
 #           Method overriding
-#           Method loading
+#           Method overloading
 
 # Method Overloading Example  ----Same name(function name but different arguments)
 
@@ -22,7 +22,7 @@ class Dog:
 d = Dog()
 
 
-# 2nd Example
+# 2nd Example "Method Overloading"
 class MathUtil:
     def add(self, a=0, b=0):
         return a + b

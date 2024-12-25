@@ -18,13 +18,12 @@ number_of_words = 0
 with open("greek.txt", 'r') as file:
     reading = file.read()
     lines = reading.split()
-    print(type(lines))
+    print(lines)
     for item in lines:
         # checking if the word is numeric or not
         if not item.isnumeric():
             number_of_words += 1
-        else:
-            number_of_words = 1
+
 
 # Printing total number of words
 print(number_of_words)
