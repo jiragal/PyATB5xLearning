@@ -7,7 +7,7 @@
 # Behaviour is different based on who is calling
 # Two types of Polymorphism
 #           Method overriding
-#           Method loading
+#           Method overloading
 
 # Method Overloading Example  ----Same name(function name but different arguments)
 
@@ -22,7 +22,7 @@ class Dog:
 d = Dog()
 
 
-# 2nd Example
+# 2nd Example "Method Overloading"
 class MathUtil:
     def add(self, a=0, b=0):
         return a + b
@@ -35,7 +35,25 @@ class MathUtil:
 
 
 math = MathUtil()
-op1 = math.add(1,1)
+op1 = math.add(1, 1)
 op2 = math.add(6, 9, 99)
 op3 = math.add(1, 2, 23, 45)
-print(op1,op2,op3)
+print(op1, op2, op3)
+
+
+# 3rd Example "Method Overloading"
+# One method will work in different way
+class Dog:
+    def barking(self, shout=None):
+        if shout is not None:
+            print(f"{shout} is Barking")
+        else:
+            print("Dog is shouting like bow bow")
+
+
+#Here one method behaves differently with parameter and without parameter
+bj1 = Dog()
+bj1.barking("Tommy")    #
+bj1.barking()
+
+
