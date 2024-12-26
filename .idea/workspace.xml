@@ -5,18 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_UDEMY_0001/Python_Conditional_Statement_Exercises.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0034_2_Class_Methods_Two_Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0035_2_Class_Variable_concept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0035_3_Class_Local_Global_Class_Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0036_2_init_Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab0125_calculator_udemy_PavanKumar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/aclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/animalandbird.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/bclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/bird.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/cclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/Python_UDEMY_0001/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Python_UDEMY_0001/Lab0121_udemy_00012_file_word_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_UDEMY_0001/Lab0121_udemy_00012_file_word_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Lab0105.Python_module_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab0105.Python_module_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Lab0106_MySQLconnector.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab0106_MySQLconnector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Lab0109_importFrom_Other_Packagers.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab0109_importFrom_Other_Packagers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/Lab104_Python_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab104_Python_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/December-2024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab0126_operations_udemy_PavanKumar.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab000058_Class_Polymorphism.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab000058_Class_Polymorphism.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0033_Class_00001.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0033_Class_00001.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0035_Class_00003.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0035_Class_00003.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0038_Class_00006.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0038_Class_00006.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0040_Class_00008.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0040_Class_00008.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,10 +191,14 @@
     "Python.Lab011_Python_String2.executor": "Run",
     "Python.Lab0120_udemy_00011_file_search.executor": "Run",
     "Python.Lab0121_udemy_00012_file_word_count.executor": "Run",
+    "Python.Lab0125_calculator_udemy_Pavan Kumar.executor": "Run",
+    "Python.Lab0126_operations_udemy_PavanKumar.executor": "Run",
     "Python.Lab012_Python_String3.executor": "Run",
     "Python.Lab100_Sandeep_Lambda_02.executor": "Run",
     "Python.Practice.executor": "Run",
     "Python.Python_Conditional_Statement_Exercises.executor": "Run",
+    "Python.animalandbird.executor": "Run",
+    "Python.cclass.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -201,14 +209,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning\December-2024\Python_UDEMY_0001" />
+      <recent name="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning\December-2024\Python_Module_Package" />
       <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024" />
       <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_LIST" />
       <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_Exception_Handling_Dec07" />
-      <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_Dictionary_Continued_Sandeep" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab0054_Class_0019_Single_Inheritance">
-    <configuration name="Lab0036_2_init_Example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.cclass">
+    <configuration name="Lab000058_Class_Polymorphism" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,7 +230,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0036_2_init_Example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab000058_Class_Polymorphism.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0036_Class_00004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0125_calculator_udemy_PavanKumar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Module_Package" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0036_Class_00004.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning\December-2024\Python_Module_Package\Lab0125_calculator_udemy_PavanKumar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0038_Class_00006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0126_operations_udemy_PavanKumar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,11 +270,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Module_Package" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0038_Class_00006.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab0126_operations_udemy_PavanKumar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0039_Class_00007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="animalandbird" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,11 +292,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Module_Package" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0039_Class_00007.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Module_Package/animalandbird.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0054_Class_0019_Single_Inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cclass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -305,11 +314,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Module_Package" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab0054_Class_0019_Single_Inheritance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Module_Package/cclass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,11 +329,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab0054_Class_0019_Single_Inheritance" />
-        <item itemvalue="Python.Lab0036_2_init_Example" />
-        <item itemvalue="Python.Lab0036_Class_00004" />
-        <item itemvalue="Python.Lab0039_Class_00007" />
-        <item itemvalue="Python.Lab0038_Class_00006" />
+        <item itemvalue="Python.cclass" />
+        <item itemvalue="Python.animalandbird" />
+        <item itemvalue="Python.Lab0126_operations_udemy_PavanKumar" />
+        <item itemvalue="Python.Lab0125_calculator_udemy_PavanKumar" />
+        <item itemvalue="Python.Lab000058_Class_Polymorphism" />
       </list>
     </recent_temporary>
   </component>
@@ -568,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734603941077</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1735128145225</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1735128145226</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
