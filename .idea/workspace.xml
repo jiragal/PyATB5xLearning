@@ -5,22 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab0125_calculator_udemy_PavanKumar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/aclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/animalandbird.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/bclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/bird.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/cclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December-2024/Python_UDEMY_0001/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/Lab0150_pytest01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/Test_Lab0151_186_pytest_learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/Test_Lab0152_187_pytest_learning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/modules/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/modules/test_Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/modules/test_Payments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/modules/test_Signup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/test_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/test_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/test_Lab0153_188_pytest_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Lab0105.Python_module_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab0105.Python_module_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Lab0106_MySQLconnector.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab0106_MySQLconnector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Lab0109_importFrom_Other_Packagers.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab0109_importFrom_Other_Packagers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/Lab104_Python_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab104_Python_module.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/December-2024/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab0126_operations_udemy_PavanKumar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab000058_Class_Polymorphism.py" beforeDir="false" afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab000058_Class_Polymorphism.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +71,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for Test_Lab0151_186_pytest_learning.test_method2.executor": "Run",
+    "Python tests.Python tests for Test_Lab0152_187_pytest_learning.test_method3.executor": "Run",
+    "Python tests.Python tests in Test_Lab0152_187_pytest_learning.py.executor": "Run",
+    "Python tests.Python tests in Test_Lab0153_188_pytest_allure.py.executor": "Run",
     "Python.Lab000058_Class_Polymorphism.executor": "Run",
     "Python.Lab00059_Class_Abstraction_01.executor": "Run",
     "Python.Lab00060_Class_MethodOverriding_02.executor": "Run",
@@ -204,107 +204,19 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Sanjiva/PycharmProjects/PyATB5xLearning1",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning" />
+      <recent name="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning\January_Pytest_Class" />
       <recent name="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning\December-2024\Python_UDEMY_0001" />
       <recent name="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning\December-2024\Python_Module_Package" />
       <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024" />
-      <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_LIST" />
-      <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024\Python_Exception_Handling_Dec07" />
     </key>
   </component>
   <component name="RunManager" selected="Python.cclass">
-    <configuration name="Lab000058_Class_Polymorphism" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/November/ex_30112024_python_Class" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/November/ex_30112024_python_Class/Lab000058_Class_Polymorphism.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab0125_calculator_udemy_PavanKumar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Module_Package" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning\December-2024\Python_Module_Package\Lab0125_calculator_udemy_PavanKumar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Lab0126_operations_udemy_PavanKumar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Module_Package" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Module_Package/Lab0126_operations_udemy_PavanKumar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="animalandbird" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Module_Package" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Module_Package/animalandbird.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="cclass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -327,20 +239,80 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for Test_Lab0151_186_pytest_learning.test_method2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/January_Pytest_Class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_Lab0151_186_pytest_learning.test_method2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Test_Lab0152_187_pytest_learning.test_method3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/January_Pytest_Class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_Lab0152_187_pytest_learning.test_method3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in Test_Lab0152_187_pytest_learning.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/January_Pytest_Class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/January_Pytest_Class/Test_Lab0152_187_pytest_learning.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_Lab0153_188_pytest_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/January_Pytest_Class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/January_Pytest_Class/test_Lab0153_188_pytest_test.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in test_Lab0153_188_pytest_test.py" />
+        <item itemvalue="Python tests.Python tests in Test_Lab0152_187_pytest_learning.py" />
+        <item itemvalue="Python tests.Python tests for Test_Lab0152_187_pytest_learning.test_method3" />
+        <item itemvalue="Python tests.Python tests for Test_Lab0151_186_pytest_learning.test_method2" />
         <item itemvalue="Python.cclass" />
-        <item itemvalue="Python.animalandbird" />
-        <item itemvalue="Python.Lab0126_operations_udemy_PavanKumar" />
-        <item itemvalue="Python.Lab0125_calculator_udemy_PavanKumar" />
-        <item itemvalue="Python.Lab000058_Class_Polymorphism" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
+        <option value="bundled-python-sdk-495700d161d3-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -585,7 +557,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735128145226</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1735175202186</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1735175202187</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
