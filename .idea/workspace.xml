@@ -5,18 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/Lab0150_pytest01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/Test_Lab0151_186_pytest_learning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/Test_Lab0152_187_pytest_learning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/modules/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/modules/test_Login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/modules/test_Payments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/modules/test_Signup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/test_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/test_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/test_Lab0153_188_pytest_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December-2024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_2025_API_AUtomation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_2025_API_AUtomation/test_Lab0193_CreateToken_POST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_2025_API_AUtomation/test_Lab0194_GetBookingIds_GET.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_2025_API_AUtomation/test_Lab0195_GetBooking_GET.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_2025_API_AUtomation/test_Lab0196_CreateBooking_POST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_2025_API_AUtomation/test_Lab0197_UpdateBooking&amp;DELETE_PUT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_2025_API_AUtomation/test_Lab0198_PartialUpdateBooking_PATCH.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/PostRequest_API_Automation/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/PostRequest_API_Automation/test_Lab192_Pytest_POST_Token.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/January_Pytest_Class/PostRequest_API_Automation/test_Lab191_Pytest_POST.py" beforeDir="false" afterPath="$PROJECT_DIR$/January_Pytest_Class/PostRequest_API_Automation/test_Lab191_Pytest_POST.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +73,21 @@
   "keyToString": {
     "Python tests.Python tests for Test_Lab0151_186_pytest_learning.test_method2.executor": "Run",
     "Python tests.Python tests for Test_Lab0152_187_pytest_learning.test_method3.executor": "Run",
+    "Python tests.Python tests for test_Lab0193_CreateToken_POST.Test_Class.executor": "Run",
+    "Python tests.Python tests for test_Lab0193_CreateToken_POST.Test_Class.test_createToken.executor": "Run",
+    "Python tests.Python tests for test_Lab0194_GetBookingIds_GET.TestClass.executor": "Run",
+    "Python tests.Python tests for test_Lab0195_GetBooking_GET.TestClass.executor": "Run",
+    "Python tests.Python tests for test_Lab0196_CreateBooking_POST.TestClass.executor": "Run",
+    "Python tests.Python tests for test_Lab0197_UpdateBooking_PUT.test_get_token.executor": "Run",
+    "Python tests.Python tests for test_Lab0197_UpdateBooking_PUT.test_put_request.executor": "Run",
+    "Python tests.Python tests for test_Lab191_Pytest_POST.TestClass.executor": "Run",
+    "Python tests.Python tests for test_Lab192_Pytest_POST_Token.TestClass.executor": "Run",
     "Python tests.Python tests in Test_Lab0152_187_pytest_learning.py.executor": "Run",
     "Python tests.Python tests in Test_Lab0153_188_pytest_allure.py.executor": "Run",
+    "Python tests.Python tests in test_Lab0196_CreateBooking_POST.py.executor": "Run",
+    "Python tests.Python tests in test_Lab0197_UpdateBooking_PUT.py.executor": "Run",
+    "Python tests.Python tests in test_Lab0198_PartialUpdateBooking_PATCH.py.executor": "Run",
+    "Python tests.Python tests in test_Lab191_Pytest_POST.py.executor": "Run",
     "Python.Lab000058_Class_Polymorphism.executor": "Run",
     "Python.Lab00059_Class_Abstraction_01.executor": "Run",
     "Python.Lab00060_Class_MethodOverriding_02.executor": "Run",
@@ -209,103 +222,96 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning" />
       <recent name="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning\January_Pytest_Class" />
+      <recent name="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning\January_Pytest_Class\PostRequest_API_Automation" />
+      <recent name="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning" />
       <recent name="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning\December-2024\Python_UDEMY_0001" />
       <recent name="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning\December-2024\Python_Module_Package" />
-      <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cclass">
-    <configuration name="cclass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/December-2024/Python_Module_Package" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/December-2024/Python_Module_Package/cclass.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for Test_Lab0151_186_pytest_learning.test_method2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in test_Lab0198_PartialUpdateBooking_PATCH.py">
+    <configuration name="Python tests for test_Lab0196_CreateBooking_POST.TestClass" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/January_Pytest_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/January_2025_API_AUtomation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Test_Lab0151_186_pytest_learning.test_method2&quot;" />
+      <option name="_new_target" value="&quot;test_Lab0196_CreateBooking_POST.TestClass&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for Test_Lab0152_187_pytest_learning.test_method3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab0197_UpdateBooking_PUT.test_get_token" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/January_Pytest_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/January_2025_API_AUtomation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Test_Lab0152_187_pytest_learning.test_method3&quot;" />
+      <option name="_new_target" value="&quot;test_Lab0197_UpdateBooking_PUT.test_get_token&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in Test_Lab0152_187_pytest_learning.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab0197_UpdateBooking_PUT.test_put_request" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/January_Pytest_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/January_2025_API_AUtomation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/January_Pytest_Class/Test_Lab0152_187_pytest_learning.py&quot;" />
+      <option name="_new_target" value="&quot;test_Lab0197_UpdateBooking_PUT.test_put_request&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_Lab0197_UpdateBooking&amp;DELETE_PUT.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/January_2025_API_AUtomation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/January_2025_API_AUtomation/test_Lab0197_UpdateBooking\u0026DELETE_PUT.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Lab0153_188_pytest_test.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Lab0198_PartialUpdateBooking_PATCH.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/January_Pytest_Class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/January_2025_API_AUtomation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/January_Pytest_Class/test_Lab0153_188_pytest_test.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/January_2025_API_AUtomation/test_Lab0198_PartialUpdateBooking_PATCH.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_Lab0153_188_pytest_test.py" />
-        <item itemvalue="Python tests.Python tests in Test_Lab0152_187_pytest_learning.py" />
-        <item itemvalue="Python tests.Python tests for Test_Lab0152_187_pytest_learning.test_method3" />
-        <item itemvalue="Python tests.Python tests for Test_Lab0151_186_pytest_learning.test_method2" />
-        <item itemvalue="Python.cclass" />
+        <item itemvalue="Python tests.Python tests in test_Lab0198_PartialUpdateBooking_PATCH.py" />
+        <item itemvalue="Python tests.Python tests in test_Lab0197_UpdateBooking&amp;DELETE_PUT.py" />
+        <item itemvalue="Python tests.Python tests for test_Lab0197_UpdateBooking_PUT.test_put_request" />
+        <item itemvalue="Python tests.Python tests for test_Lab0197_UpdateBooking_PUT.test_get_token" />
+        <item itemvalue="Python tests.Python tests for test_Lab0196_CreateBooking_POST.TestClass" />
       </list>
     </recent_temporary>
   </component>
@@ -565,7 +571,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735175202187</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1735827658938</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1735827658938</updated>
+    </task>
+    <task id="LOCAL-00032" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1735863447690</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1735863447690</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -600,6 +622,11 @@
           <url>file://$PROJECT_DIR$/December-2024/Python_UDEMY_0001/Lab0117_udemy_00008_file_operations_2.py</url>
           <line>4</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/January_2025_API_AUtomation/test_Lab0194_GetBookingIds_GET.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
