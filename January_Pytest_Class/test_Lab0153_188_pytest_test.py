@@ -1,5 +1,6 @@
 import pytest
 import allure
+import requests
 
 @allure.title("Verify that create booking, with valid data is working")
 @allure.description("This Testcase check for the positive create booking")
