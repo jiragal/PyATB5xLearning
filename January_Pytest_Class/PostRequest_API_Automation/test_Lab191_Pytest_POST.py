@@ -36,19 +36,19 @@ class TestClass:
             "additionalneeds": "Breakfast"
         }
 
-        response_data = requests.post(url=full_url, headers= headers, json=payload)
+        response_data = requests.post(url=full_url, headers=headers, json=payload)
 
-        #From Here onwards we will check our test_cases
+        # From Here onwards we will check our test_cases
         # Status Code Verification
         assert response_data.status_code == 200;
-        #Verify Booking ID > 0, Booking id is not NULL, firstname == "Jim"
+        # Verify Booking ID > 0, Booking id is not NULL, firstname == "Jim"
         response_data_json = response_data.json()
         bookingid = response_data_json["bookingid"]
         print(bookingid)
         assert bookingid is not None
-        assert bookingid  > 0
+        assert bookingid > 0
         assert type(bookingid) == int
-        #Checking first Name is == 'Jim'
+        # Checking first Name is == 'Jim'
         firstName = response_data_json["booking"]["firstname"]
         assert firstName == 'Jim'
         assert type(firstName) == str
@@ -66,25 +66,20 @@ class TestClass:
         assert checkIn == "2018-01-01"
         assert checkOut == "2019-01-01"
 
-        #Check Time response
+        # Check Time response
         time = response_data.elapsed.total_seconds()
         assert time < 5
 
-        #In 2nd test case keeping empty response and if we check it should hit with 500 error code
-        @allure.title("TC#2 Verify that invalid payload is not creating")
-        @allure.title("Create Booking CRUD Negative ")
-        @pytest.mark.crud
-        def test_create_booking_negative_tc1():
-            base_url1 = "https://restful-booker.herokuapp.com"
-            base_path = "/booking"
-            URL = base_url1 + base_path
-            headers = {"Content-Type": "application/json"}
-            jason_payload = {}
-            response = requests.post(url=URL,headers=headers,json=jason_payload)
-            assert response.status_code == 500
-            assert response.text == 'Internal Server Error'
-
-
-
-
-
+    # In 2nd test case keeping empty payload and if we check it should hit with 500 error code
+    @allure.title("TC#2 Verify that invalid payload is not creating")
+    @allure.title("Create Booking CRUD Negative ")
+    @pytest.mark.crud
+    def test_create_booking_negative_tc1(self):
+        base_url1 = "https://restful-booker.herokuapp.com"
+        base_path = "/booking"
+        URL = base_url1 + base_path
+        headers = {"Content-Type": "application/json"}
+        jason_payload = {}
+        response = requests.post(url=URL, headers=headers, json=jason_payload)
+        assert response.status_code == 500
+        assert response.text == 'Internal Server Error'
