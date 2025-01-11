@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test-task11thJan_0002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0003_google_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/January_Pytest_Class/modules/test_Dependency.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/January_2025_API_AUtomation/test_Lab0194_GetBookingIds_GET.py" beforeDir="false" afterPath="$PROJECT_DIR$/January_2025_API_AUtomation/test_Lab0194_GetBookingIds_GET.py" afterDir="false" />
-    </list>
+    <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -580,7 +572,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735827658938</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1736620716108</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1736620716108</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
