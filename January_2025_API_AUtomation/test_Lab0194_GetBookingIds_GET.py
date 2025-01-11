@@ -14,6 +14,7 @@ class TestClass:
         full_url = url + path_url
         response_data = requests.get(url=full_url)
         response_json = response_data.json()
+        print(response_json)
         assert response_data.status_code == 200  #Check the status code is 200
         assert response_json is not None         #Check the response body is not empty
         assert type(response_json) == list       #Check the response body is an array
