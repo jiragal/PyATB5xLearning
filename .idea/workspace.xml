@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0015_ebay_task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/Duplicate_makemytrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0016_Waits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0017_Waits_Explicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0018_Fluent_Wait_explicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0018_webtables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0019_Actions_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0020_Action_P2_Mouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0021_Actions_P3_Drag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0022_Actions_makemytrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_programs_sandeep_0001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_programs_sandeep_0002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_programs_sandeep_0003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_programs_sandeep_0004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_programs_sandeep_0005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_programs_sandeep_0006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_selenium_sandeep_0007.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +78,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for Duplicate_makemytrip.test_verify_action_make_my_trip.executor": "Run",
+    "Python tests.Python tests for Duplicate_makemytrip.test_verify_action_makemytrip.executor": "Run",
     "Python tests.Python tests for Test_Lab0151_186_pytest_learning.test_method2.executor": "Run",
     "Python tests.Python tests for Test_Lab0152_187_pytest_learning.test_method3.executor": "Run",
     "Python tests.Python tests for test13_Selenium_locators_miniproject_tagName.TestClass.executor": "Run",
@@ -81,9 +99,19 @@
     "Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_project_management.executor": "Run",
     "Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_sales_pack.executor": "Run",
     "Python tests.Python tests for test_selenium_0015_ebay_task2.test_scrape_ebay.executor": "Run",
+    "Python tests.Python tests for test_selenium_0016_Waits.test_negative_app_vwo_com.executor": "Run",
+    "Python tests.Python tests for test_selenium_0017_Waits_Explicit.test_negative_testcase.executor": "Run",
+    "Python tests.Python tests for test_selenium_0018_Fluent_Wait_explicit.test_negative_case_vmo_login.executor": "Run",
+    "Python tests.Python tests for test_selenium_0018_webtables.test_webtables.executor": "Run",
+    "Python tests.Python tests for test_selenium_0019_Actions_P1.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test_selenium_0020_Action_P2_Mouse.test_verify_action_mouse.executor": "Run",
+    "Python tests.Python tests for test_selenium_0021_Actions_P3_Drag.test_verify_action_mouse_drag.executor": "Run",
+    "Python tests.Python tests for test_selenium_0022_Actions_makemytrip.test_verify_action_make_my_trip.executor": "Run",
+    "Python tests.Python tests for test_selenium_0022_Actions_makemytrip.test_verify_action_makemytrip.executor": "Run",
     "Python tests.Python tests for test_selenium_task_Project#3.TestTask.test_account_registration.executor": "Run",
     "Python tests.Python tests in Test_Lab0152_187_pytest_learning.py.executor": "Run",
     "Python tests.Python tests in Test_Lab0153_188_pytest_allure.py.executor": "Run",
+    "Python tests.Python tests in sort_program_sandeep_0003.py.executor": "Run",
     "Python tests.Python tests in test13_Selenium_locators_miniproject_tagName.py.executor": "Run",
     "Python tests.Python tests in test_0014_us.espocrm.py.executor": "Run",
     "Python tests.Python tests in test_selenium_0001.py.executor": "Run",
@@ -94,7 +122,14 @@
     "Python tests.Python tests in test_selenium_0014_us.espocrm.py.executor": "Run",
     "Python tests.Python tests in test_selenium_0014_us_espocrm.py.executor": "Run",
     "Python tests.Python tests in test_selenium_0015_ebay_task2.py.executor": "Run",
+    "Python tests.Python tests in test_selenium_0017_Waits_Explicit.py.executor": "Run",
+    "Python tests.Python tests in test_selenium_0018_Fluent_Wait_explicit.py.executor": "Run",
+    "Python tests.Python tests in test_selenium_0018_webtables.py.executor": "Run",
+    "Python tests.Python tests in test_selenium_0020_Action_P2_Mouse.py.executor": "Run",
+    "Python tests.Python tests in test_selenium_0021_Actions_P3_Drag.py.executor": "Run",
+    "Python tests.Python tests in test_selenium_0022_Actions_makemytrip.py.executor": "Run",
     "Python tests.Python tests in test_selenium_task_Project#3.py.executor": "Run",
+    "Python tests.Python tests in test_sort_programs_sandeep_0001.py.executor": "Run",
     "Python.FirstTestCase.executor": "Run",
     "Python.Lab000058_Class_Polymorphism.executor": "Run",
     "Python.Lab00059_Class_Abstraction_01.executor": "Run",
@@ -222,6 +257,13 @@
     "Python.cclass.executor": "Run",
     "Python.practice_class.executor": "Run",
     "Python.sandeep_sir_polymorphism_002.executor": "Run",
+    "Python.sort_program_sandeep_0003.executor": "Run",
+    "Python.sort_programs_sandeep_0001.executor": "Run",
+    "Python.sort_programs_sandeep_0002.executor": "Run",
+    "Python.sort_programs_sandeep_0004.executor": "Run",
+    "Python.sort_programs_sandeep_0005.executor": "Run",
+    "Python.sort_programs_sandeep_0006.executor": "Run",
+    "Python.sort_selenium_sandeep_0007.executor": "Run",
     "Python.test-task11thJan_0002.executor": "Run",
     "Python.test_0014_us.espocrm.executor": "Run",
     "Python.test_selenium_0014_us.espocrm (1).executor": "Run",
@@ -242,8 +284,8 @@
       <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_selenium_0015_ebay_task2.test_scrape_ebay">
-    <configuration name="Python tests for test_selenium_0015_ebay_task2.test_scrape_ebay" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for Duplicate_makemytrip.test_verify_action_make_my_trip">
+    <configuration name="Python tests for Duplicate_makemytrip.test_verify_action_make_my_trip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,11 +296,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_selenium_0015_ebay_task2.test_scrape_ebay&quot;" />
+      <option name="_new_target" value="&quot;Duplicate_makemytrip.test_verify_action_make_my_trip&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_selenium_task_Project#3.TestTask3.test_account_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for Duplicate_makemytrip.test_verify_action_makemytrip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,11 +311,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_selenium_task_Project#3.TestTask3.test_account_registration&quot;" />
+      <option name="_new_target" value="&quot;Duplicate_makemytrip.test_verify_action_makemytrip&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_selenium_task_Project#3.TestTask.test_account_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_selenium_0022_Actions_makemytrip.test_verify_action_make_my_trip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -284,11 +326,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_selenium_task_Project#3.TestTask.test_account_registration&quot;" />
+      <option name="_new_target" value="&quot;test_selenium_0022_Actions_makemytrip.test_verify_action_make_my_trip&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_selenium_0015_ebay_task2.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_selenium_0022_Actions_makemytrip.test_verify_action_makemytrip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -299,11 +341,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0015_ebay_task2.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_selenium_0022_Actions_makemytrip.test_verify_action_makemytrip&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_selenium_task_Project#3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_selenium_0022_Actions_makemytrip.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -314,17 +356,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_task_Project#3.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0022_Actions_makemytrip.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_selenium_0015_ebay_task2.test_scrape_ebay" />
-        <item itemvalue="Python tests.Python tests in test_selenium_0015_ebay_task2.py" />
-        <item itemvalue="Python tests.Python tests for test_selenium_task_Project#3.TestTask.test_account_registration" />
-        <item itemvalue="Python tests.Python tests in test_selenium_task_Project#3.py" />
-        <item itemvalue="Python tests.Python tests for test_selenium_task_Project#3.TestTask3.test_account_registration" />
+        <item itemvalue="Python tests.Python tests for Duplicate_makemytrip.test_verify_action_make_my_trip" />
+        <item itemvalue="Python tests.Python tests for Duplicate_makemytrip.test_verify_action_makemytrip" />
+        <item itemvalue="Python tests.Python tests for test_selenium_0022_Actions_makemytrip.test_verify_action_make_my_trip" />
+        <item itemvalue="Python tests.Python tests for test_selenium_0022_Actions_makemytrip.test_verify_action_makemytrip" />
+        <item itemvalue="Python tests.Python tests in test_selenium_0022_Actions_makemytrip.py" />
       </list>
     </recent_temporary>
   </component>
@@ -640,7 +682,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737272307037</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1737305043609</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1737305043609</updated>
+    </task>
+    <task id="LOCAL-00039" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1737305670266</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1737305670266</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -675,6 +733,11 @@
           <url>file://$PROJECT_DIR$/December-2024/Python_UDEMY_0001/Lab0117_udemy_00008_file_operations_2.py</url>
           <line>4</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0022_Actions_makemytrip.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
