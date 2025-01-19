@@ -1,3 +1,8 @@
+# Automation for the Registration Page of the AwesomeQA.com/UI
+# Open - https://awesomeqa.com/ui/index.php?route=account/register
+# Fill the form
+# Verify that next page give - Your Account Has Been Created!
+#**************************************************************************#
 import pytest
 import allure
 import time, os
