@@ -3,6 +3,9 @@
 # Fill the form
 # Verify that next page give - Your Account Has Been Created!
 #**************************************************************************#
+#Pakge imported
+#**************************************************************************#
+#**************************************************************************# 
 import pytest
 import allure
 import time, os
@@ -11,7 +14,7 @@ from selenium.webdriver.common.by import By
 #from selenium.webdriver.chrome.options import Options
 from dotenv import load_dotenv
 
-
+#Mainclass Declaration
 class TestTask(object):
     @allure.title("Registration Link testing")
     @allure.description("Test to verify user registration is successful")
