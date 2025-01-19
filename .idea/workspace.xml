@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
+      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0015_ebay_task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +80,7 @@
     "Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_personal_demo.executor": "Run",
     "Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_project_management.executor": "Run",
     "Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_sales_pack.executor": "Run",
+    "Python tests.Python tests for test_selenium_0015_ebay_task2.test_scrape_ebay.executor": "Run",
     "Python tests.Python tests for test_selenium_task_Project#3.TestTask.test_account_registration.executor": "Run",
     "Python tests.Python tests in Test_Lab0152_187_pytest_learning.py.executor": "Run",
     "Python tests.Python tests in Test_Lab0153_188_pytest_allure.py.executor": "Run",
@@ -91,6 +93,7 @@
     "Python tests.Python tests in test_selenium_0008_locators_miniproject.py.executor": "Run",
     "Python tests.Python tests in test_selenium_0014_us.espocrm.py.executor": "Run",
     "Python tests.Python tests in test_selenium_0014_us_espocrm.py.executor": "Run",
+    "Python tests.Python tests in test_selenium_0015_ebay_task2.py.executor": "Run",
     "Python tests.Python tests in test_selenium_task_Project#3.py.executor": "Run",
     "Python.FirstTestCase.executor": "Run",
     "Python.Lab000058_Class_Polymorphism.executor": "Run",
@@ -239,30 +242,8 @@
       <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_selenium_task_Project#3.TestTask.test_account_registration">
-    <configuration name="test_selenium_0014_us_espocrm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025_Selenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Sanjiva\PycharmProjects\PyATB5xLearning\Jan_2025_Selenium\test_selenium_0014_us_espocrm.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_selenium_0014_us_espocrm.TestClass.test_personal_demo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_selenium_0015_ebay_task2.test_scrape_ebay">
+    <configuration name="Python tests for test_selenium_0015_ebay_task2.test_scrape_ebay" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,22 +254,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_selenium_0014_us_espocrm.TestClass.test_personal_demo&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_selenium_0014_us_espocrm.TestClass.test_project_management" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025_Selenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_selenium_0014_us_espocrm.TestClass.test_project_management&quot;" />
+      <option name="_new_target" value="&quot;test_selenium_0015_ebay_task2.test_scrape_ebay&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -322,6 +288,21 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in test_selenium_0015_ebay_task2.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025_Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0015_ebay_task2.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in test_selenium_task_Project#3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -339,11 +320,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_selenium_0015_ebay_task2.test_scrape_ebay" />
+        <item itemvalue="Python tests.Python tests in test_selenium_0015_ebay_task2.py" />
         <item itemvalue="Python tests.Python tests for test_selenium_task_Project#3.TestTask.test_account_registration" />
         <item itemvalue="Python tests.Python tests in test_selenium_task_Project#3.py" />
         <item itemvalue="Python tests.Python tests for test_selenium_task_Project#3.TestTask3.test_account_registration" />
-        <item itemvalue="Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_personal_demo" />
-        <item itemvalue="Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_project_management" />
       </list>
     </recent_temporary>
   </component>
@@ -651,7 +632,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737271310888</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1737272307037</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1737272307037</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
