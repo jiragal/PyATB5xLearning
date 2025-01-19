@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test12_selenium_0009_Linktext_freetrail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test13_Selenium_locators_miniproject_tagName.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0004_ByID_search_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0005_Linktext_partialLinktext_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0006_verify_current_url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0007-locators_Options.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0008_locators_miniproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0014_us_espocrm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/sandeep_sir_class_basics_001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/November/ex_30112024_python_Class/sandeep_sir_polymorphism_002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_task_Project#3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -90,6 +81,7 @@
     "Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_personal_demo.executor": "Run",
     "Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_project_management.executor": "Run",
     "Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_sales_pack.executor": "Run",
+    "Python tests.Python tests for test_selenium_task_Project#3.TestTask.test_account_registration.executor": "Run",
     "Python tests.Python tests in Test_Lab0152_187_pytest_learning.py.executor": "Run",
     "Python tests.Python tests in Test_Lab0153_188_pytest_allure.py.executor": "Run",
     "Python tests.Python tests in test13_Selenium_locators_miniproject_tagName.py.executor": "Run",
@@ -101,6 +93,7 @@
     "Python tests.Python tests in test_selenium_0008_locators_miniproject.py.executor": "Run",
     "Python tests.Python tests in test_selenium_0014_us.espocrm.py.executor": "Run",
     "Python tests.Python tests in test_selenium_0014_us_espocrm.py.executor": "Run",
+    "Python tests.Python tests in test_selenium_task_Project#3.py.executor": "Run",
     "Python.FirstTestCase.executor": "Run",
     "Python.Lab000058_Class_Polymorphism.executor": "Run",
     "Python.Lab00059_Class_Abstraction_01.executor": "Run",
@@ -248,7 +241,7 @@
       <recent name="C:\Users\91990\PycharmProjects\PyATB5xLearning\December-2024" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_personal_demo">
+  <component name="RunManager" selected="Python tests.Python tests for test_selenium_task_Project#3.TestTask.test_account_registration">
     <configuration name="test_selenium_0014_us_espocrm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
@@ -269,21 +262,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_selenium_0014_us_espocrm.TestClass.test_advanced_pack" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PyATB5xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025_Selenium" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_selenium_0014_us_espocrm.TestClass.test_advanced_pack&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for test_selenium_0014_us_espocrm.TestClass.test_personal_demo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -316,7 +294,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_selenium_0014_us_espocrm.TestClass.test_sales_pack" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_selenium_task_Project#3.TestTask3.test_account_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -327,11 +305,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_selenium_0014_us_espocrm.TestClass.test_sales_pack&quot;" />
+      <option name="_new_target" value="&quot;test_selenium_task_Project#3.TestTask3.test_account_registration&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_selenium_0014_us_espocrm.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_selenium_task_Project#3.TestTask.test_account_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -342,17 +320,32 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0014_us_espocrm.py&quot;" />
+      <option name="_new_target" value="&quot;test_selenium_task_Project#3.TestTask.test_account_registration&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_selenium_task_Project#3.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan_2025_Selenium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_task_Project#3.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_selenium_task_Project#3.TestTask.test_account_registration" />
+        <item itemvalue="Python tests.Python tests in test_selenium_task_Project#3.py" />
+        <item itemvalue="Python tests.Python tests for test_selenium_task_Project#3.TestTask3.test_account_registration" />
         <item itemvalue="Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_personal_demo" />
         <item itemvalue="Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_project_management" />
-        <item itemvalue="Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_sales_pack" />
-        <item itemvalue="Python tests.Python tests for test_selenium_0014_us_espocrm.TestClass.test_advanced_pack" />
-        <item itemvalue="Python tests.Python tests in test_selenium_0014_us_espocrm.py" />
       </list>
     </recent_temporary>
   </component>
@@ -636,7 +629,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736621119417</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1737133417691</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1737133417691</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
