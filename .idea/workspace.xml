@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code">
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/Duplicate_makemytrip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0016_Waits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0017_Waits_Explicit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0018_Fluent_Wait_explicit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0018_webtables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0019_Actions_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0020_Action_P2_Mouse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0021_Actions_P3_Drag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan_2025_Selenium/test_selenium_0022_Actions_makemytrip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_programs_sandeep_0001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_programs_sandeep_0002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_programs_sandeep_0003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_programs_sandeep_0004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_programs_sandeep_0005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_programs_sandeep_0006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janauary_sort2024_Programs/sort_selenium_sandeep_0007.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b107c36f-d5cb-4848-bad1-3b086fb131a4" name="Changes" comment="save all the code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -698,7 +679,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737305670266</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1737711556847</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1737711556847</updated>
+    </task>
+    <task id="LOCAL-00041" summary="save all the code">
+      <option name="closed" value="true" />
+      <created>1737711571813</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1737711571813</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
