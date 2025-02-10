@@ -1,12 +1,15 @@
 import allure
 import pytest
 import time
+
+from pip._internal.utils import datetime
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+from datetime import datetime
 
 
 @allure.title("Make My Trip Automation")
@@ -32,18 +35,28 @@ def test_verify_action_make_my_trip():
     fromCity = driver.find_element(By.ID, "fromCity")
     actions = ActionChains(driver)
     actions.move_to_element(fromCity).click().send_keys("del").perform()
-    time.sleep(4)
+    time.sleep(2)
     actions.move_to_element(fromCity).key_down(Keys.ARROW_DOWN).key_down(Keys.DOWN).key_down(Keys.ENTER).perform()
 
     to_city = driver.find_element(By.ID, "toCity")
     actions.move_to_element(to_city).click().send_keys("Ban").perform()
     time.sleep(2)
-    actions.move_to_element(to_city).key_down(Keys.ARROW_DOWN).key_down(Keys.ENTER).perform()
+    f= actions.move_to_element(to_city).key_down(Keys.ARROW_DOWN).key_down(Keys.ENTER).key_down(Keys.RETURN)
+    f.click()
     time.sleep(10)
 
+    #Select the current Date
+    current_date=datetime.now().day
+    calendar_date_xpath = f"//div[contains(@class, 'DayPicker-Day') and not(contains(@class, 'DayPicker-Day--disabled'))]//p[text()='{current_date}']"
+    date_element = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, calendar_date_xpath)))
+    date_element.click()
+    time.sleep(5)
+
     # #Now user will click on "SEARCH" button
-    # search_button = (driver.find_element(By.XPATH, "//a[contains(@class,'primaryBtn']"))
-    # search_button.click()
+    search_button = driver.find_element(By.XPATH, "//a[contains(@class, 'primaryBtn')]")
+    search_button.click()
+    # WebDriverWait(driver, 20).until(
+    #     EC.presence_of_element_located((By.XPATH, "//div[contains(@class, 'listingCard')]")))
     #
     # # #wait for the results to load
     # time.sleep(10)
